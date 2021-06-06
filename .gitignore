@@ -1,0 +1,4 @@
+*.old
+/asssets/
+!/asssets/*.jpg
+/.git/
